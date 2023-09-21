@@ -1,6 +1,6 @@
 Hi,
 
-My name is Tom Castro
+My name is Tom Castro (Aldo Navarro)
 
 This github is for the develop of my own tools, dot files and learning.
 
